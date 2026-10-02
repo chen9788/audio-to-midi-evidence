@@ -1,0 +1,3 @@
+fixture_name,input_type,expected_events,observed_events,observed_pitches,result
+mono-four-note-wav,generated WAV,4,4,"60 64 67 72",pass
+silence-control,generated silent WAV,0,0,,pass
