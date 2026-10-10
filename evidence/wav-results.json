@@ -1,0 +1,194 @@
+{
+  "testedAt": "2026-09-22",
+  "method": "Exact deployed app.js evaluated in Node VM. UI stubs and OfflineAudioContext supplies deterministic quantized mono PCM at detector rate. Browser decoding/resampling is not measured here. Synthetic tests are not real-recording accuracy benchmarks.",
+  "sampleRate": 11025,
+  "bitDepth": 16,
+  "confidence": 0.8,
+  "transpose": 0,
+  "sourceSHA256": "b474a57a8022023591b4581a0eb6f45d6225b8bdc24340d7b0d52566ac477ddd",
+  "results": [
+    {
+      "name": "four-separated-notes",
+      "minNoteMs": 100,
+      "duration": 2.8,
+      "inputEvents": [
+        {
+          "pitch": 60,
+          "start": 0.15,
+          "end": 0.65
+        },
+        {
+          "pitch": 64,
+          "start": 0.8,
+          "end": 1.3
+        },
+        {
+          "pitch": 67,
+          "start": 1.45,
+          "end": 1.9500000000000002
+        },
+        {
+          "pitch": 72,
+          "start": 2.1,
+          "end": 2.6
+        }
+      ],
+      "outputNotes": [
+        {
+          "pitch": 60,
+          "start": 0.07981859410430839,
+          "end": 0.6585034013605442
+        },
+        {
+          "pitch": 64,
+          "start": 0.7183673469387755,
+          "end": 1.2970521541950113
+        },
+        {
+          "pitch": 67,
+          "start": 1.3768707482993197,
+          "end": 1.9555555555555555
+        },
+        {
+          "pitch": 72,
+          "start": 2.015419501133787,
+          "end": 2.6140589569160997
+        }
+      ],
+      "status": "Conversion complete. Adjust the controls, preview, then download."
+    },
+    {
+      "name": "short-notes",
+      "minNoteMs": 100,
+      "duration": 1.300045351473923,
+      "inputEvents": [
+        {
+          "pitch": 60,
+          "start": 0.15,
+          "end": 0.23
+        },
+        {
+          "pitch": 64,
+          "start": 0.4,
+          "end": 0.48
+        },
+        {
+          "pitch": 67,
+          "start": 0.65,
+          "end": 0.73
+        },
+        {
+          "pitch": 72,
+          "start": 0.9,
+          "end": 0.98
+        }
+      ],
+      "outputNotes": [
+        {
+          "pitch": 60,
+          "start": 0.07981859410430839,
+          "end": 0.23945578231292516
+        },
+        {
+          "pitch": 64,
+          "start": 0.31927437641723355,
+          "end": 0.47891156462585033
+        },
+        {
+          "pitch": 67,
+          "start": 0.5786848072562358,
+          "end": 0.7383219954648526
+        },
+        {
+          "pitch": 72,
+          "start": 0.818140589569161,
+          "end": 0.9777777777777777
+        }
+      ],
+      "status": "Conversion complete. Adjust the controls, preview, then download."
+    },
+    {
+      "name": "silence",
+      "minNoteMs": 100,
+      "duration": 1,
+      "inputEvents": [],
+      "outputNotes": [],
+      "status": "No clear notes found. Try a louder, isolated melody or lower confidence."
+    },
+    {
+      "name": "two-simultaneous-notes",
+      "minNoteMs": 100,
+      "duration": 1.500045351473923,
+      "inputEvents": [
+        {
+          "pitch": 60,
+          "start": 0.15,
+          "end": 1.25
+        },
+        {
+          "pitch": 67,
+          "start": 0.15,
+          "end": 1.25
+        }
+      ],
+      "outputNotes": [
+        {
+          "pitch": 48,
+          "start": 0.09977324263038549,
+          "end": 1.23718820861678
+        }
+      ],
+      "status": "Conversion complete. Adjust the controls, preview, then download."
+    },
+    {
+      "name": "short-notes",
+      "minNoteMs": 40,
+      "duration": 1.300045351473923,
+      "inputEvents": [
+        {
+          "pitch": 60,
+          "start": 0.15,
+          "end": 0.23
+        },
+        {
+          "pitch": 64,
+          "start": 0.4,
+          "end": 0.48
+        },
+        {
+          "pitch": 67,
+          "start": 0.65,
+          "end": 0.73
+        },
+        {
+          "pitch": 72,
+          "start": 0.9,
+          "end": 0.98
+        }
+      ],
+      "outputNotes": [
+        {
+          "pitch": 60,
+          "start": 0.07981859410430839,
+          "end": 0.23945578231292516
+        },
+        {
+          "pitch": 64,
+          "start": 0.31927437641723355,
+          "end": 0.47891156462585033
+        },
+        {
+          "pitch": 67,
+          "start": 0.5786848072562358,
+          "end": 0.7383219954648526
+        },
+        {
+          "pitch": 72,
+          "start": 0.818140589569161,
+          "end": 0.9777777777777777
+        }
+      ],
+      "status": "Conversion complete. Adjust the controls, preview, then download."
+    }
+  ]
+}

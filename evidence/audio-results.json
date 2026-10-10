@@ -1,0 +1,212 @@
+{
+  "testedAt": "2026-09-24",
+  "method": "Exact deployed app.js evaluated in Node VM. UI stubs and OfflineAudioContext supplies deterministic quantized mono PCM at detector rate. Browser decoding/resampling is not measured here. Synthetic tests are not real-recording accuracy benchmarks.",
+  "sampleRate": 11025,
+  "bitDepth": 16,
+  "confidence": 0.8,
+  "transpose": 0,
+  "sourceSHA256": "b474a57a8022023591b4581a0eb6f45d6225b8bdc24340d7b0d52566ac477ddd",
+  "results": [
+    {
+      "name": "amplitude-0p003",
+      "confidence": 0.8,
+      "peakAmplitude": 0.003,
+      "peakDbfs": -50.45757490560675,
+      "maxFrameMeanSquare": 0.000004512516170507297,
+      "minNoteMs": 100,
+      "duration": 1.4,
+      "inputEvents": [
+        {
+          "pitch": 69,
+          "start": 0.2,
+          "end": 1.2,
+          "amplitude": 0.003
+        }
+      ],
+      "outputNotes": [],
+      "status": "No clear notes found. Try a louder, isolated melody or lower confidence."
+    },
+    {
+      "name": "amplitude-0p006",
+      "confidence": 0.8,
+      "peakAmplitude": 0.006,
+      "peakDbfs": -44.43697499232712,
+      "maxFrameMeanSquare": 0.000018054073734674603,
+      "minNoteMs": 100,
+      "duration": 1.4,
+      "inputEvents": [
+        {
+          "pitch": 69,
+          "start": 0.2,
+          "end": 1.2,
+          "amplitude": 0.006
+        }
+      ],
+      "outputNotes": [],
+      "status": "No clear notes found. Try a louder, isolated melody or lower confidence."
+    },
+    {
+      "name": "amplitude-0p007",
+      "confidence": 0.8,
+      "peakAmplitude": 0.007,
+      "peakDbfs": -43.09803919971486,
+      "maxFrameMeanSquare": 0.000024569866582169197,
+      "minNoteMs": 100,
+      "duration": 1.4,
+      "inputEvents": [
+        {
+          "pitch": 69,
+          "start": 0.2,
+          "end": 1.2,
+          "amplitude": 0.007
+        }
+      ],
+      "outputNotes": [],
+      "status": "No clear notes found. Try a louder, isolated melody or lower confidence."
+    },
+    {
+      "name": "amplitude-0p008",
+      "confidence": 0.8,
+      "peakAmplitude": 0.008,
+      "peakDbfs": -41.938200260161125,
+      "maxFrameMeanSquare": 0.000032090085369418375,
+      "minNoteMs": 100,
+      "duration": 1.4,
+      "inputEvents": [
+        {
+          "pitch": 69,
+          "start": 0.2,
+          "end": 1.2,
+          "amplitude": 0.008
+        }
+      ],
+      "outputNotes": [
+        {
+          "pitch": 69,
+          "start": 0.19954648526077098,
+          "end": 1.1374149659863946
+        }
+      ],
+      "status": "Conversion complete. Adjust the controls, preview, then download."
+    },
+    {
+      "name": "amplitude-0p01",
+      "confidence": 0.8,
+      "peakAmplitude": 0.01,
+      "peakDbfs": -40,
+      "maxFrameMeanSquare": 0.000050146682042395696,
+      "minNoteMs": 100,
+      "duration": 1.4,
+      "inputEvents": [
+        {
+          "pitch": 69,
+          "start": 0.2,
+          "end": 1.2,
+          "amplitude": 0.01
+        }
+      ],
+      "outputNotes": [
+        {
+          "pitch": 69,
+          "start": 0.15963718820861678,
+          "end": 1.1573696145124717
+        }
+      ],
+      "status": "Conversion complete. Adjust the controls, preview, then download."
+    },
+    {
+      "name": "amplitude-0p1",
+      "confidence": 0.8,
+      "peakAmplitude": 0.1,
+      "peakDbfs": -20,
+      "maxFrameMeanSquare": 0.005014274329369073,
+      "minNoteMs": 100,
+      "duration": 1.4,
+      "inputEvents": [
+        {
+          "pitch": 69,
+          "start": 0.2,
+          "end": 1.2,
+          "amplitude": 0.1
+        }
+      ],
+      "outputNotes": [
+        {
+          "pitch": 69,
+          "start": 0.11972789115646258,
+          "end": 1.1972789115646258
+        }
+      ],
+      "status": "Conversion complete. Adjust the controls, preview, then download."
+    },
+    {
+      "name": "amplitude-0p35",
+      "confidence": 0.8,
+      "peakAmplitude": 0.35,
+      "peakDbfs": -9.118639112994488,
+      "maxFrameMeanSquare": 0.06142443856697355,
+      "minNoteMs": 100,
+      "duration": 1.4,
+      "inputEvents": [
+        {
+          "pitch": 69,
+          "start": 0.2,
+          "end": 1.2,
+          "amplitude": 0.35
+        }
+      ],
+      "outputNotes": [
+        {
+          "pitch": 69,
+          "start": 0.11972789115646258,
+          "end": 1.1972789115646258
+        }
+      ],
+      "status": "Conversion complete. Adjust the controls, preview, then download."
+    },
+    {
+      "name": "amplitude-0p7",
+      "confidence": 0.8,
+      "peakAmplitude": 0.7,
+      "peakDbfs": -3.0980391997148637,
+      "maxFrameMeanSquare": 0.24569876483383268,
+      "minNoteMs": 100,
+      "duration": 1.4,
+      "inputEvents": [
+        {
+          "pitch": 69,
+          "start": 0.2,
+          "end": 1.2,
+          "amplitude": 0.7
+        }
+      ],
+      "outputNotes": [
+        {
+          "pitch": 69,
+          "start": 0.11972789115646258,
+          "end": 1.1972789115646258
+        }
+      ],
+      "status": "Conversion complete. Adjust the controls, preview, then download."
+    },
+    {
+      "name": "amplitude-0p006",
+      "confidence": 0.5,
+      "peakAmplitude": 0.006,
+      "peakDbfs": -44.43697499232712,
+      "maxFrameMeanSquare": 0.000018054073734674603,
+      "minNoteMs": 100,
+      "duration": 1.4,
+      "inputEvents": [
+        {
+          "pitch": 69,
+          "start": 0.2,
+          "end": 1.2,
+          "amplitude": 0.006
+        }
+      ],
+      "outputNotes": [],
+      "status": "No clear notes found. Try a louder, isolated melody or lower confidence."
+    }
+  ]
+}
